@@ -3,4 +3,7 @@ Tekst
 
 Yo, hello world, i'm nice!
 
-gjksgæskægrbjskægrbgæjklrgr
+
+Let's try this :D
+
+This is new.
